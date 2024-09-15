@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-## [HOME] (../)
+## [HOME](../)
 
 # LINKS
 
@@ -12,8 +12,9 @@ permalink: LINKS/
   This is tutorial youtube to learn Vim for beginner
 * [Cyber Security Course](https://www.youtube.com/watch?v=U_P23SqJaDc){:target="_blank"} ---
   This complete cyber security course you will learn everything you need in order to understand cyber security in depth. You will learn all the terminology related to cyber security
-*[Google](https://www.google.com/){:target="_blank"} ---
+* [Google](https://www.google.com/){:target="_blank"} ---
   If you are stuck and cannot do anything you can GGSSGGSWG (Google Sana, Google Sini).
+
 
 
 <br>
