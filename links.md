@@ -13,7 +13,12 @@ permalink: LINKS/
 * [Cyber Security Course](https://www.youtube.com/watch?v=U_P23SqJaDc){:target="_blank"} ---
   This complete cyber security course you will learn everything you need in order to understand cyber security in depth. You will learn all the terminology related to cyber security
 * [Google](https://www.google.com/){:target="_blank"} ---
-  If you are stuck and cannot do anything you can GGSSGGSWG (Google Sana, Google Sini).
+  If you are stuck and cannot do anything you can GSGS (Google Sana, Google Sini).
+* [Linux Command](https://www.hostinger.com/tutorials/linux-commands){:target="_blank"} ---
+  This is the top 60 essential Linux commands for research if you forget syntax in Linux
+* [C Tutorial](https://www.geeksforgeeks.org/c-programming-language/){:target="_blank"} ---
+  This tutorial is especially good for understanding system calls, process management, and file handling in C. It's geared toward computer science students and beginners who want to apply C for system-level programming.
+
 
 
 
