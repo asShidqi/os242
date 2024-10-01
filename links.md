@@ -18,7 +18,8 @@ permalink: LINKS/
   This is the top 60 essential Linux commands for research if you forget syntax in Linux
 * [C Tutorial](https://www.geeksforgeeks.org/c-programming-language/){:target="_blank"} ---
   This tutorial is especially good for understanding system calls, process management, and file handling in C. It's geared toward computer science students and beginners who want to apply C for system-level programming.
-
+* [MIDTERM EXAM](https://rms46.vlsm.org/2/195.pdf){:target="_blank"} ---
+    Example questions for last year's midterm because the UTS will be held
 
 
 
