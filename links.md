@@ -20,7 +20,8 @@ permalink: LINKS/
   This tutorial is especially good for understanding system calls, process management, and file handling in C. It's geared toward computer science students and beginners who want to apply C for system-level programming.
 * [MIDTERM EXAM](https://rms46.vlsm.org/2/195.pdf){:target="_blank"} ---
     Example questions for last year's midterm because the UTS will be held
-
+* [fork C] (https://www-geeksforgeeks-org.translate.goog/fork-system-call/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc){:target="_blank"} ---
+    Explanation about fork in C for creating a new process in Linux, and Unix systems, which is called the child process, which runs concurrently with the process that makes the fork() call (parent process).
 
 
 <br>
