@@ -22,7 +22,8 @@ permalink: LINKS/
     Example questions for last year's midterm because the UTS will be held
 * [fork C] (https://www-geeksforgeeks-org.translate.goog/fork-system-call/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc){:target="_blank"} ---
     Explanation about fork in C for creating a new process in Linux, and Unix systems, which is called the child process, which runs concurrently with the process that makes the fork() call (parent process).
-
+* [Learn build OS from scratch] (https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN){:target="_blank"} ---
+    Playlist on creating an operating system from scratch, presented by PonchoTheOrange. The series covers fundamental concepts and practical steps for building a basic OS using C and Assembly. It guides through setting up a bootloader, handling interrupts, creating a simple kernel, and managing memory. Each video is designed to explain core OS components like file systems, drivers, and multi-tasking, giving viewers a hands-on approach to OS development, typically aimed at intermediate to advanced learners with knowledge of low-level programming.
 
 <br>
 <br>
