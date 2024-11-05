@@ -1,6 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related 
+ZCZC W07 240 L05 QUIZ
+ZCZC W07 24 L00 General, etc.
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 20 L25 C-language including Makea
+ZCZC W07 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 30 L21 Trying something
+ZCZC W07 10 L11 Assignment #01
+ZCZC W07 30 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 10 L15 Assignment #05
+ZCZC W07 60 L40 TXT/ related in general
+ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 30 L41 TXT/mylog.txt related
 ZCZC W06 240 L05 QUIZ
 ZCZC W06 24 L00 General, etc.
 ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
